@@ -1,0 +1,35 @@
+// variable call
+
+$v
+$dv
+$vrgb
+$dvrgb
+$vshadowlow
+$dvshadowhigh
+
+$totab
+$tophone
+$tophonesmall
+
+// my helper
+
+.my-box {
+}
+
+.myinput {
+}
+
+.mytextarea {
+}
+
+.mybtn {
+}
+
+.mybtnfull {
+}
+
+.mybtnborder {
+}
+
+.img {
+}
