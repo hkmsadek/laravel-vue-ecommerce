@@ -2043,6 +2043,406 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _shared_menu__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./shared/menu */ "./resources/js/shared/menu.vue");
+/* harmony import */ var _shared_banner__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./shared/banner */ "./resources/js/shared/banner.vue");
+/* harmony import */ var _shared_category__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./shared/category */ "./resources/js/shared/category.vue");
+/* harmony import */ var _shared_fullcontent__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./shared/fullcontent */ "./resources/js/shared/fullcontent.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
+
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  created: function created() {
+    console.log(this.$store.state);
+  },
+  components: {
+    topmemu: _shared_menu__WEBPACK_IMPORTED_MODULE_0__["default"],
+    banner: _shared_banner__WEBPACK_IMPORTED_MODULE_1__["default"],
+    category: _shared_category__WEBPACK_IMPORTED_MODULE_2__["default"],
+    fullcontent: _shared_fullcontent__WEBPACK_IMPORTED_MODULE_3__["default"]
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/fullcontent.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/shared/fullcontent.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _productsection__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./productsection */ "./resources/js/shared/productsection.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  created: function created() {
+    console.log(this.$store.state);
+  },
+  components: {
+    productsection: _productsection__WEBPACK_IMPORTED_MODULE_0__["default"]
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/menu.vue?vue&type=script&lang=js&":
+/*!***********************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/shared/menu.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _search__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./search */ "./resources/js/shared/search.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  created: function created() {
+    console.log(this.$store.state);
+  },
+  components: {
+    search: _search__WEBPACK_IMPORTED_MODULE_0__["default"]
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/productsection.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/shared/productsection.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -2098,9 +2498,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 /* harmony default export */ __webpack_exports__["default"] = ({
-  created: function created() {
-    console.log(this.$store.state);
-  }
+  props: ['title']
 });
 
 /***/ }),
@@ -19823,98 +20221,2521 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [_vm._m(0), _vm._v(" "), _c("router-view")], 1)
+  return _c(
+    "div",
+    [
+      _c("topmemu"),
+      _vm._v(" "),
+      _c("banner"),
+      _vm._v(" "),
+      _c("section", { staticClass: "main-section" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "section-details" }, [
+            _c("div", { staticClass: "row" }, [
+              _c(
+                "div",
+                { staticClass: "col-md-2 col-sm-2 mt-10 move-sec" },
+                [_c("category")],
+                1
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                { staticClass: "col-md-8 col-sm-8 mt-10 m-col-12" },
+                [_c("fullcontent")],
+                1
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("router-view")
+    ],
+    1
+  )
+}
+var staticRenderFns = []
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/banner.vue?vue&type=template&id=8efcd0f0&":
+/*!*****************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/shared/banner.vue?vue&type=template&id=8efcd0f0& ***!
+  \*****************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("nav", [
-      _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "nav-inner" }, [
-          _c("div", { staticClass: "nav-brand" }, [
-            _c("div", { staticClass: "nav-category-menu" }, [
-              _c("span", [_c("i", { staticClass: "fas fa-bars" })])
+    return _c("div", [
+      _c("header", { staticClass: "mt-67" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "header-carousel" }, [
+            _c("div", {}, [
+              _c("div", { staticClass: "item" }, [
+                _c("div", { staticClass: "header-carousel-img" }, [
+                  _c("figure", [
+                    _c("img", {
+                      attrs: {
+                        src: "/images/background3.jpg",
+                        alt: "appifylab"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "header-carousel-caption" }, [
+                    _c("div", { staticClass: "header-caption-text" }, [
+                      _c("p", [
+                        _vm._v("Order online and pickup from your nearest")
+                      ]),
+                      _vm._v(" "),
+                      _c("figure")
+                    ])
+                  ])
+                ])
+              ])
             ]),
             _vm._v(" "),
-            _c("a", { attrs: { href: "index.html" } }, [
-              _c("img", {
-                attrs: { src: "/images/logo.png", alt: "appifylab" }
-              })
-            ])
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "nav-search-bar" }, [
-            _c("form", { attrs: { action: "#" } }, [
-              _c("div", { staticClass: "nav-search-locat" }, [
-                _c(
-                  "div",
-                  {
-                    staticClass: "nav-search-locat-inner",
-                    attrs: { id: "location-delivery" }
-                  },
-                  [
-                    _c("span", [
-                      _c("i", { staticClass: "fas fa-map-marker-alt" })
-                    ])
-                  ]
-                )
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "nav-search-input" }, [
-                _c("div", { staticClass: "nav-search-input-inner" }, [
-                  _c("input", {
-                    attrs: { type: "text", placeholder: "Search for products" }
-                  })
+            _c(
+              "div",
+              { staticClass: "owl-dots", attrs: { id: "custom-dots" } },
+              [
+                _c("div", { staticClass: "owl-dot" }, [
+                  _c("figure", [
+                    _c("img", {
+                      attrs: { src: "/images/store.png", alt: "appifylab" }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "owl-dot" }, [
+                  _c("figure", [
+                    _c("img", {
+                      attrs: { src: "/images/house.png", alt: "appifylab" }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "owl-dot" }, [
+                  _c("figure", [
+                    _c("img", {
+                      attrs: {
+                        src: "/images/delivery-truck.png",
+                        alt: "appifylab"
+                      }
+                    })
+                  ])
+                ])
+              ]
+            )
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/category.vue?vue&type=template&id=62c0894c&":
+/*!*******************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/shared/category.vue?vue&type=template&id=62c0894c& ***!
+  \*******************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "category-section box-shadow" }, [
+        _c("div", { staticClass: "mobile-box" }, [
+          _c("ul", [_c("li", [_vm._v("Category")])])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "category-section-title" }, [
+          _c("h2", [_vm._v("All categories")])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "category-section-item" }, [
+          _c("ul", [
+            _c("li", [
+              _c("a", { attrs: { href: "category-page.html" } }, [
+                _vm._v("Men fashion\n            "),
+                _c("span", { staticClass: "category-toggle-icon" }, [
+                  _c("i", { staticClass: "fas fa-chevron-down" })
                 ])
               ]),
               _vm._v(" "),
-              _c("div", { staticClass: "nav-search-icon" }, [
-                _c("div", { staticClass: "nav-search-icon-inner" }, [
-                  _c(
-                    "button",
-                    {
-                      attrs: {
-                        onclick: "window.location.href='search-page.html'"
-                      }
-                    },
-                    [_c("span", [_c("i", { staticClass: "fas fa-search" })])]
-                  )
+              _c("ul", { staticClass: "category-section-dropdown" }, [
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Jackets & hoodies")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Shirts\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Formal")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Casual")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Tees & polos")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Panjabi")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Pants & trousers\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Jeans")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Casual")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "" } }, [
+                    _vm._v("Watches\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Navifoce")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Skmei")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Woodpecker")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Sonata")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Sunglass & Eyewear")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Walllets & belts")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Bags & backpacks")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Footwear\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Casual")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Formal")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Accessories\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Socks")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Shoes accessories")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Inner wear")
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "category-page.html" } }, [
+                _vm._v("Women fashion\n            "),
+                _c("span", { staticClass: "category-toggle-icon" }, [
+                  _c("i", { staticClass: "fas fa-chevron-down" })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("ul", { staticClass: "category-section-dropdown" }, [
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Saree")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Hijabs")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Salwar kamix & Kurtis\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Stitch")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Unstitch")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Footwear\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Shoes")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Shocks")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Bags & clutches")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Backpacks")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Western\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Tops")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Jackets & hoodies")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("T-shirts")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Pant & trousers\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Pajama")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Watches")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Jewellery\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Necklace & pendants")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Earrings")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Nosepins")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Bangles")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Rings")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Lingerie & sleep wear\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Tank top and crop top")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Shoes accessories")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Sunglass & eyewear")
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "category-page.html" } }, [
+                _vm._v("Phones & tablets\n            "),
+                _c("span", { staticClass: "category-toggle-icon" }, [
+                  _c("i", { staticClass: "fas fa-chevron-down" })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("ul", { staticClass: "category-section-dropdown" }, [
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Phones\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Apple")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Samsung")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Huawei")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Nokia")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Oppo")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Maximus")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Symphony")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Vivo")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Realme")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Infinix")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("OnePlus")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Motorola")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("GSM phones")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Tablets")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Smart watch")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Bluetooth speakers")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Earphone & Headsets")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Power bank")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Chargers & cables")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Mobile accessories\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Back covers")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Screen protector")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Others")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("All the xiaomi accessories")
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "category-page.html" } }, [
+                _vm._v("Computer & Accessories\n            "),
+                _c("span", { staticClass: "category-toggle-icon" }, [
+                  _c("i", { staticClass: "fas fa-chevron-down" })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("ul", { staticClass: "category-section-dropdown" }, [
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Laptop & Notebooks\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Apple")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Asus")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("HP")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Lenovo")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("I-Life")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Xiaomi")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Laptop Accessories")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Desktop PC")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Monitor")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Keyboard & Mouse\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Keyboard")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Mouse")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Mouse Pad")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Combo Products")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Router & Networking\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Router")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Network Accessories")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Storage\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Hard Drives")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Pendrive")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Audio Accessories\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Speaker")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Headset")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Microphone")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Printers & Scanners")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Accessories\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Cables & Converter")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Card Reader & Hubs")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Webcam")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Cooler")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("LED Light Strip")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Gamers' Zone\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Laptop")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Keyboard & Mouse")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Game Controller")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Headsets")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Chair")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Computer & Accessories")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Projector")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Components\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Motherboard")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("RAM")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Graphics Card")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Casing")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Power Supply (PSU)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Optical drive")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Software\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Antivirus")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Operating System")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Power Solution\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Power Strips & Adapters")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("UPS")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Computer Accessories Flash Sale")
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "category-page.html" } }, [
+                _vm._v("Electronic Accessories\n            "),
+                _c("span", { staticClass: "category-toggle-icon" }, [
+                  _c("i", { staticClass: "fas fa-chevron-down" })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("ul", { staticClass: "category-section-dropdown" }, [
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Television\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Sony")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Samsung")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("ELITE")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("VEZIO")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("NAPCO")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Minister")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Vision")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Kitchen Appliances\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Blender, Juicer & Grinder")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Electric & Microwave Oven")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Rice Cooker")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Water Purifier")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Toaster,Sandwich & Roti Maker")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Kettle")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Others")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Small & Other Appliances\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Fans")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Irons")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Torch Light and Lamps")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Water & Room Heaters")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Others")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Cameras\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Cameras")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Camera Accessories")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Hardware & Tools")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Air Conditioner")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Refrigerator")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Television Accessories")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Generators & IPS")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Washing Machine")
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "category-page.html" } }, [
+                _vm._v("Home & Living\n            "),
+                _c("span", { staticClass: "category-toggle-icon" }, [
+                  _c("i", { staticClass: "fas fa-chevron-down" })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("ul", { staticClass: "category-section-dropdown" }, [
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Plastics")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Pans & Pots")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Kitchen Accessories")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Curtains & Covers")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Bathroom Accessories")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Home Decor\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Rugs & Carpets")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Table Mats & Runners")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Beanbag")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Party Essentials")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Knives & Silverware")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Cookware")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Travel Accessories")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Others")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Groceries")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Bedding\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Bed Sheets")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Pillows & Covers")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Net")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Quilts, Blankets & Comforters")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Storage & Organisation")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Ceramics")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Towels\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Towels and Napkins")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Dinning Utensils")
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "category-page.html" } }, [
+                _vm._v("Health & Beauty\n            "),
+                _c("span", { staticClass: "category-toggle-icon" }, [
+                  _c("i", { staticClass: "fas fa-chevron-down" })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("ul", { staticClass: "category-section-dropdown" }, [
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Perfume & Deodorant\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Women")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Men")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Makeup\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Face Makeup")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Eye Makeup")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Lips")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Nails")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Brushes and Blenders")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Grooming Products\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Women")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Men")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Personal Care\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Others")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Whisper")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Body & Skin Care\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Women")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Men")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Hair Care")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Sports & Fitness")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Health Care Devices")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Bath & Body\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Hand Care")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Soap, Shower Gel & Scrubs")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Hair Removal")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Buy 1 Get 1")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Bicycle")
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "category-page.html" } }, [
+                _vm._v("Babies & Toys\n            "),
+                _c("span", { staticClass: "category-toggle-icon" }, [
+                  _c("i", { staticClass: "fas fa-chevron-down" })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("ul", { staticClass: "category-section-dropdown" }, [
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Toys & Games")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Diaper & Wipes\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Pampers")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Others")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Babies Accessories")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Clothing\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Girls")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Boys")
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "category-page.html" } }, [
+                _vm._v("Sports & Outdoor\n            "),
+                _c("span", { staticClass: "category-toggle-icon" }, [
+                  _c("i", { staticClass: "fas fa-chevron-down" })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("ul", { staticClass: "category-section-dropdown" }, [
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Exercise & Fitness\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Treadmills")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Exercise Bikes")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Elliptical Trainers")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Fitness Accessories")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Team Sports")
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c("a", { attrs: { href: "category-page.html" } }, [
+                _vm._v("Automotive\n            "),
+                _c("span", { staticClass: "category-toggle-icon" }, [
+                  _c("i", { staticClass: "fas fa-chevron-down" })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("ul", { staticClass: "category-section-dropdown" }, [
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Motor Cycle")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Helmet\n                "),
+                    _c("span", { staticClass: "category-toggle-icon" }, [
+                      _c("i", { staticClass: "fas fa-plus" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "category-section-dropdown" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("KYT")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Bilmola")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("YOHE")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                        _vm._v("Gliders")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "category-sub-page.html" } }, [
+                    _vm._v("Accessories")
+                  ])
                 ])
               ])
             ])
-          ]),
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/fullcontent.vue?vue&type=template&id=2674df5e&":
+/*!**********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/shared/fullcontent.vue?vue&type=template&id=2674df5e& ***!
+  \**********************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c(
+      "div",
+      { staticClass: "category-full-content" },
+      [
+        _vm._m(0),
+        _vm._v(" "),
+        _c("productsection", { attrs: { title: "Popular" } }),
+        _vm._v(" "),
+        _c("productsection", { attrs: { title: "Men's fasion" } }),
+        _vm._v(" "),
+        _c("productsection", { attrs: { title: "Women new arrivals" } }),
+        _vm._v(" "),
+        _c("productsection", { attrs: { title: "Bla bla" } }),
+        _vm._v(" "),
+        _c("productsection", { attrs: { title: "and bla bla" } })
+      ],
+      1
+    )
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "category-slider box-shadow" }, [
+      _c("div", { staticClass: "category-owl-slider owl-carousel owl-theme" }, [
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/1.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Wrist Watch")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/2.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Folding Mobile")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/3.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Mobile Phone")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/4.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Laptop")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/5.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Smart Watch")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/6.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Shirt")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/7.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Shoe")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/8.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Panjabi")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/9.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Sunglass")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/10.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Bike")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/3.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Mobile Phone")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/1.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Wrist Watch")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/9.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Sunglass")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/4.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Laptop")])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "item" }, [
+          _c("a", { attrs: { href: "category-sub-page.html" } }, [
+            _c("figure", [
+              _c("img", { attrs: { src: "/images/2.png", alt: "appifylab" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "category-slider-caption" }, [
+              _c("p", [_vm._v("Folding Mobile")])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/menu.vue?vue&type=template&id=9562058a&":
+/*!***************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/shared/menu.vue?vue&type=template&id=9562058a& ***!
+  \***************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("nav", [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "nav-inner" }, [
+          _vm._m(0),
           _vm._v(" "),
-          _c("div", { staticClass: "nav-navigation" }, [
-            _c("ul", [
-              _c("li", { staticClass: "nav-navigation-list" }, [
-                _c("a", { attrs: { href: "#" } }, [_vm._v("English")])
+          _c("div", { staticClass: "nav-search-bar" }, [_c("search")], 1),
+          _vm._v(" "),
+          _vm._m(1)
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "nav-bottom-list" })
+      ])
+    ])
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "nav-brand" }, [
+      _c("div", { staticClass: "nav-category-menu" }, [
+        _c("span", [_c("i", { staticClass: "fas fa-bars" })])
+      ]),
+      _vm._v(" "),
+      _c("a", { attrs: { href: "index.html" } }, [
+        _c("img", { attrs: { src: "/images/logo.png", alt: "appifylab" } })
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "nav-navigation" }, [
+      _c("ul", [
+        _c("li", { staticClass: "nav-navigation-list" }, [
+          _c("a", { attrs: { href: "#" } }, [_vm._v("English")])
+        ]),
+        _vm._v(" "),
+        _c("li", { staticClass: "nav-navigation-list click-auth navi-move" }, [
+          _c("a", { attrs: { href: "#" } }, [_vm._v("Sign-in or signup")])
+        ]),
+        _vm._v(" "),
+        _c("li", { staticClass: "nav-navigation-list cart-list" }, [
+          _c("a", { attrs: { href: "#" } }, [
+            _c("span", [_c("i", { staticClass: "fas fa-shopping-cart" })]),
+            _c("p", { staticClass: "cart-show" }, [_vm._v("10")])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/productsection.vue?vue&type=template&id=42ddb31c&":
+/*!*************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/shared/productsection.vue?vue&type=template&id=42ddb31c& ***!
+  \*************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "section-box border-top mt-20" }, [
+      _c("div", { staticClass: "title" }, [
+        _c("h2", [_vm._v(_vm._s(_vm.title))]),
+        _vm._v(" "),
+        _vm._m(0)
+      ]),
+      _vm._v(" "),
+      _vm._m(1)
+    ])
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "title-box" }, [
+      _c("a", { attrs: { href: "" } }, [
+        _c("p", [
+          _vm._v("\n            More"),
+          _c("span", [_c("i", { staticClass: "fas fa-chevron-right" })])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "section-box-inner" }, [
+      _c("div", { staticClass: "row" }, [
+        _c("div", { staticClass: "col-md-3 col-sm-3" }, [
+          _c("div", { staticClass: "box-item box-shadow" }, [
+            _c("a", { attrs: { href: "product-details.html" } }, [
+              _c("div", { staticClass: "box-item-figure" }, [
+                _c("figure", [
+                  _c("img", {
+                    attrs: { src: "/images/man1.png", alt: "appifylab" }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "box-change-img" }, [
+                  _c("ul", [
+                    _c("li", [
+                      _c("img", {
+                        attrs: {
+                          src: "/images/mastercard.svg",
+                          alt: "appifylab"
+                        }
+                      })
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("img", {
+                        attrs: { src: "/images/bkash10.png", alt: "appifylab" }
+                      })
+                    ])
+                  ])
+                ])
               ]),
               _vm._v(" "),
-              _c(
-                "li",
-                { staticClass: "nav-navigation-list click-auth navi-move" },
-                [
-                  _c("a", { attrs: { href: "#" } }, [
-                    _vm._v("Sign-in or signup")
-                  ])
-                ]
-              ),
-              _vm._v(" "),
-              _c("li", { staticClass: "nav-navigation-list cart-list" }, [
-                _c("a", { attrs: { href: "#" } }, [
-                  _c("span", [
-                    _c("i", { staticClass: "fas fa-shopping-cart" })
-                  ]),
-                  _c("p", { staticClass: "cart-show" }, [_vm._v("10")])
+              _c("div", { staticClass: "box-item-figure-caption" }, [
+                _c("h4", [
+                  _vm._v("Original Leather Wallet For Men"),
+                  _c("span", [_vm._v("(BROWN)")])
+                ]),
+                _vm._v(" "),
+                _c("ul", { staticClass: "item-price" }, [
+                  _c("li", { staticClass: "main-price" }, [_vm._v("$4,999")]),
+                  _vm._v(" "),
+                  _c("li", [_c("del", [_vm._v("5,999")])]),
+                  _vm._v(" "),
+                  _c("li", { staticClass: "save" }, [_vm._v("Save 1,000")])
                 ])
               ])
             ])
           ])
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "nav-bottom-list" })
+        _c("div", { staticClass: "col-md-3 col-sm-3" }, [
+          _c("div", { staticClass: "box-item box-shadow" }, [
+            _c("a", { attrs: { href: "product-details.html" } }, [
+              _c("div", { staticClass: "box-item-figure" }, [
+                _c("figure", [
+                  _c("img", {
+                    attrs: { src: "/images/menn.jpg", alt: "appifylab" }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "box-change-img" }, [
+                  _c("ul", [
+                    _c("li", [
+                      _c("img", {
+                        attrs: {
+                          src: "/images/mastercard.svg",
+                          alt: "appifylab"
+                        }
+                      })
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("img", {
+                        attrs: { src: "/images/bkash10.png", alt: "appifylab" }
+                      })
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "box-item-figure-caption" }, [
+                _c("h4", [
+                  _vm._v("\n                  White & Black T-Shirt for Men"),
+                  _c("span", [_vm._v("ZCS 05 (M)")])
+                ]),
+                _vm._v(" "),
+                _c("ul", { staticClass: "item-price" }, [
+                  _c("li", { staticClass: "main-price" }, [_vm._v("$5,999")]),
+                  _vm._v(" "),
+                  _c("li", [_c("del", [_vm._v("8,999")])]),
+                  _vm._v(" "),
+                  _c("li", { staticClass: "save" }, [_vm._v("Save 3,000")])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "more-option" }, [
+                  _c("p", [_c("span", [_vm._v("+1")]), _vm._v(" more option")])
+                ])
+              ])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-md-3 col-sm-3" }, [
+          _c("div", { staticClass: "box-item box-shadow" }, [
+            _c("a", { attrs: { href: "product-details.html" } }, [
+              _c("div", { staticClass: "box-item-figure" }, [
+                _c("figure", [
+                  _c("img", {
+                    attrs: { src: "/images/man3.jpg", alt: "appifylab" }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "box-change-img" }, [
+                  _c("ul", [
+                    _c("li", [
+                      _c("img", {
+                        attrs: {
+                          src: "/images/mastercard.svg",
+                          alt: "appifylab"
+                        }
+                      })
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("img", {
+                        attrs: { src: "/images/bkash10.png", alt: "appifylab" }
+                      })
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "box-item-figure-caption" }, [
+                _c("h4", [
+                  _vm._v("Men's Jacket (Black)"),
+                  _c("span", [_vm._v("- MJ-07 (XS)")])
+                ]),
+                _vm._v(" "),
+                _c("ul", { staticClass: "item-price" }, [
+                  _c("li", { staticClass: "main-price" }, [_vm._v("$2,999")]),
+                  _vm._v(" "),
+                  _c("li", [_c("del", [_vm._v("3,999")])]),
+                  _vm._v(" "),
+                  _c("li", { staticClass: "save" }, [_vm._v("Save 1,000")])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "more-option" }, [
+                  _c("p", [_c("span", [_vm._v("+1")]), _vm._v(" more option")])
+                ])
+              ])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-md-3 col-sm-3" }, [
+          _c("div", { staticClass: "box-item box-shadow" }, [
+            _c("a", { attrs: { href: "product-details.html" } }, [
+              _c("div", { staticClass: "box-item-figure" }, [
+                _c("figure", [
+                  _c("img", {
+                    attrs: { src: "/images/man4.jpg", alt: "appifylab" }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "box-change-img" }, [
+                  _c("ul", [
+                    _c("li", [
+                      _c("img", {
+                        attrs: {
+                          src: "/images/mastercard.svg",
+                          alt: "appifylab"
+                        }
+                      })
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("img", {
+                        attrs: { src: "/images/bkash10.png", alt: "appifylab" }
+                      })
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "box-item-figure-caption" }, [
+                _c("h4", [
+                  _vm._v("\n                  Craftsman Shoes for Men"),
+                  _c("span", [_vm._v("-CFS -- LC21 (Black)")])
+                ]),
+                _vm._v(" "),
+                _c("ul", { staticClass: "item-price" }, [
+                  _c("li", { staticClass: "main-price" }, [_vm._v("$5,999")]),
+                  _vm._v(" "),
+                  _c("li", [_c("del", [_vm._v("8,999")])]),
+                  _vm._v(" "),
+                  _c("li", { staticClass: "save" }, [_vm._v("Save 3,000")])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "more-option" }, [
+                  _c("p", [_c("span", [_vm._v("+1")]), _vm._v(" more option")])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/search.vue?vue&type=template&id=68b23ff8&":
+/*!*****************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/shared/search.vue?vue&type=template&id=68b23ff8& ***!
+  \*****************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("form", { attrs: { action: "#" } }, [
+        _c("div", { staticClass: "nav-search-locat" }, [
+          _c(
+            "div",
+            {
+              staticClass: "nav-search-locat-inner",
+              attrs: { id: "location-delivery" }
+            },
+            [_c("span", [_c("i", { staticClass: "fas fa-map-marker-alt" })])]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "nav-search-input" }, [
+          _c("div", { staticClass: "nav-search-input-inner" }, [
+            _c("input", {
+              attrs: { type: "text", placeholder: "Search for products" }
+            })
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "nav-search-icon" }, [
+          _c("div", { staticClass: "nav-search-icon-inner" }, [
+            _c(
+              "button",
+              { attrs: { onclick: "window.location.href='search-page.html'" } },
+              [_c("span", [_c("i", { staticClass: "fas fa-search" })])]
+            )
+          ])
+        ])
       ])
     ])
   }
@@ -36642,6 +39463,372 @@ routes = routes.concat(initialRoutes, _app_Modules_Example_Vue_js_router__WEBPAC
   mode: 'history',
   routes: routes
 }));
+
+/***/ }),
+
+/***/ "./resources/js/shared/banner.vue":
+/*!****************************************!*\
+  !*** ./resources/js/shared/banner.vue ***!
+  \****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _banner_vue_vue_type_template_id_8efcd0f0___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./banner.vue?vue&type=template&id=8efcd0f0& */ "./resources/js/shared/banner.vue?vue&type=template&id=8efcd0f0&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+var script = {}
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
+  _banner_vue_vue_type_template_id_8efcd0f0___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _banner_vue_vue_type_template_id_8efcd0f0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/shared/banner.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/shared/banner.vue?vue&type=template&id=8efcd0f0&":
+/*!***********************************************************************!*\
+  !*** ./resources/js/shared/banner.vue?vue&type=template&id=8efcd0f0& ***!
+  \***********************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_banner_vue_vue_type_template_id_8efcd0f0___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./banner.vue?vue&type=template&id=8efcd0f0& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/banner.vue?vue&type=template&id=8efcd0f0&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_banner_vue_vue_type_template_id_8efcd0f0___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_banner_vue_vue_type_template_id_8efcd0f0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/shared/category.vue":
+/*!******************************************!*\
+  !*** ./resources/js/shared/category.vue ***!
+  \******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _category_vue_vue_type_template_id_62c0894c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./category.vue?vue&type=template&id=62c0894c& */ "./resources/js/shared/category.vue?vue&type=template&id=62c0894c&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+var script = {}
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
+  _category_vue_vue_type_template_id_62c0894c___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _category_vue_vue_type_template_id_62c0894c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/shared/category.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/shared/category.vue?vue&type=template&id=62c0894c&":
+/*!*************************************************************************!*\
+  !*** ./resources/js/shared/category.vue?vue&type=template&id=62c0894c& ***!
+  \*************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_category_vue_vue_type_template_id_62c0894c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./category.vue?vue&type=template&id=62c0894c& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/category.vue?vue&type=template&id=62c0894c&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_category_vue_vue_type_template_id_62c0894c___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_category_vue_vue_type_template_id_62c0894c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/shared/fullcontent.vue":
+/*!*********************************************!*\
+  !*** ./resources/js/shared/fullcontent.vue ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _fullcontent_vue_vue_type_template_id_2674df5e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./fullcontent.vue?vue&type=template&id=2674df5e& */ "./resources/js/shared/fullcontent.vue?vue&type=template&id=2674df5e&");
+/* harmony import */ var _fullcontent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./fullcontent.vue?vue&type=script&lang=js& */ "./resources/js/shared/fullcontent.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _fullcontent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _fullcontent_vue_vue_type_template_id_2674df5e___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _fullcontent_vue_vue_type_template_id_2674df5e___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/shared/fullcontent.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/shared/fullcontent.vue?vue&type=script&lang=js&":
+/*!**********************************************************************!*\
+  !*** ./resources/js/shared/fullcontent.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_fullcontent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./fullcontent.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/fullcontent.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_fullcontent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/shared/fullcontent.vue?vue&type=template&id=2674df5e&":
+/*!****************************************************************************!*\
+  !*** ./resources/js/shared/fullcontent.vue?vue&type=template&id=2674df5e& ***!
+  \****************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_fullcontent_vue_vue_type_template_id_2674df5e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./fullcontent.vue?vue&type=template&id=2674df5e& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/fullcontent.vue?vue&type=template&id=2674df5e&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_fullcontent_vue_vue_type_template_id_2674df5e___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_fullcontent_vue_vue_type_template_id_2674df5e___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/shared/menu.vue":
+/*!**************************************!*\
+  !*** ./resources/js/shared/menu.vue ***!
+  \**************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _menu_vue_vue_type_template_id_9562058a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./menu.vue?vue&type=template&id=9562058a& */ "./resources/js/shared/menu.vue?vue&type=template&id=9562058a&");
+/* harmony import */ var _menu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./menu.vue?vue&type=script&lang=js& */ "./resources/js/shared/menu.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _menu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _menu_vue_vue_type_template_id_9562058a___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _menu_vue_vue_type_template_id_9562058a___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/shared/menu.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/shared/menu.vue?vue&type=script&lang=js&":
+/*!***************************************************************!*\
+  !*** ./resources/js/shared/menu.vue?vue&type=script&lang=js& ***!
+  \***************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_menu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./menu.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/menu.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_menu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/shared/menu.vue?vue&type=template&id=9562058a&":
+/*!*********************************************************************!*\
+  !*** ./resources/js/shared/menu.vue?vue&type=template&id=9562058a& ***!
+  \*********************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_menu_vue_vue_type_template_id_9562058a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./menu.vue?vue&type=template&id=9562058a& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/menu.vue?vue&type=template&id=9562058a&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_menu_vue_vue_type_template_id_9562058a___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_menu_vue_vue_type_template_id_9562058a___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/shared/productsection.vue":
+/*!************************************************!*\
+  !*** ./resources/js/shared/productsection.vue ***!
+  \************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _productsection_vue_vue_type_template_id_42ddb31c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./productsection.vue?vue&type=template&id=42ddb31c& */ "./resources/js/shared/productsection.vue?vue&type=template&id=42ddb31c&");
+/* harmony import */ var _productsection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./productsection.vue?vue&type=script&lang=js& */ "./resources/js/shared/productsection.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _productsection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _productsection_vue_vue_type_template_id_42ddb31c___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _productsection_vue_vue_type_template_id_42ddb31c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/shared/productsection.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/shared/productsection.vue?vue&type=script&lang=js&":
+/*!*************************************************************************!*\
+  !*** ./resources/js/shared/productsection.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_productsection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./productsection.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/productsection.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_productsection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/shared/productsection.vue?vue&type=template&id=42ddb31c&":
+/*!*******************************************************************************!*\
+  !*** ./resources/js/shared/productsection.vue?vue&type=template&id=42ddb31c& ***!
+  \*******************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_productsection_vue_vue_type_template_id_42ddb31c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./productsection.vue?vue&type=template&id=42ddb31c& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/productsection.vue?vue&type=template&id=42ddb31c&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_productsection_vue_vue_type_template_id_42ddb31c___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_productsection_vue_vue_type_template_id_42ddb31c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/shared/search.vue":
+/*!****************************************!*\
+  !*** ./resources/js/shared/search.vue ***!
+  \****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _search_vue_vue_type_template_id_68b23ff8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./search.vue?vue&type=template&id=68b23ff8& */ "./resources/js/shared/search.vue?vue&type=template&id=68b23ff8&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+var script = {}
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
+  _search_vue_vue_type_template_id_68b23ff8___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _search_vue_vue_type_template_id_68b23ff8___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/shared/search.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/shared/search.vue?vue&type=template&id=68b23ff8&":
+/*!***********************************************************************!*\
+  !*** ./resources/js/shared/search.vue?vue&type=template&id=68b23ff8& ***!
+  \***********************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_search_vue_vue_type_template_id_68b23ff8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./search.vue?vue&type=template&id=68b23ff8& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/shared/search.vue?vue&type=template&id=68b23ff8&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_search_vue_vue_type_template_id_68b23ff8___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_search_vue_vue_type_template_id_68b23ff8___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
 
 /***/ }),
 
