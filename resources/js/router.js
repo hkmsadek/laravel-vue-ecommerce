@@ -4,6 +4,7 @@ Vue.use(Router)
 import exampleMainPage from './exampleMainPage';
 import ExampleRoutes from '../../app/Modules/Example/Vue/js/router'
 import HomeRoutes from '../../app/Modules/Home/Vue/js/router'
+import UserRoutes from '../../app/Modules/User/Vue/js/router'
 
 const initialRoutes = [
     {path: '/example-main-page', name: 'test', component: exampleMainPage}
@@ -15,7 +16,9 @@ var routes = []
 routes = routes.concat(
     initialRoutes,
     ExampleRoutes,
-    HomeRoutes
+    HomeRoutes,
+    UserRoutes
+
 
 )
 

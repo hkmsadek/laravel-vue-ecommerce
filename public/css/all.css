@@ -1665,7 +1665,7 @@ footer {
   font-weight: 400;
   margin-bottom: 6px;
   letter-spacing: .04em;
-  padding-left: 15px;
+  /* padding-left: 15px; */
   padding-right: 15px;
 }
 .modal-input-box input {
@@ -4401,3 +4401,9 @@ html.new-modal-open {
 /*# sourceMappingURL=style.css.map */
 
 /* this is custom css added while coding.... */
+._center{
+    text-align: center;
+}
+._button button{
+    width: 100%;
+}

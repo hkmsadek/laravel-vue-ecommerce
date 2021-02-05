@@ -1647,7 +1647,7 @@ footer {
   font-weight: 400;
   margin-bottom: 6px;
   letter-spacing: .04em;
-  padding-left: 15px;
+  /* padding-left: 15px; */
   padding-right: 15px;
 }
 .modal-input-box input {

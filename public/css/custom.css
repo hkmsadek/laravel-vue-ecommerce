@@ -1,1 +1,7 @@
 /* this is custom css added while coding.... */
+._center{
+    text-align: center;
+}
+._button button{
+    width: 100%;
+}
