@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\ExampleController;
+use App\Http\Controllers\HomeController;
 
 
 /*
@@ -15,8 +15,8 @@ use App\Http\Controllers\ExampleController;
 |
 */
 
-// Route::get('/example',  [ExampleController::class, 'test']);
+// Route::get('/home',  [HomeController::class, 'test']);
 
-Route::prefix('example/api')->group(function () {
-    Route::get('/test',  [ExampleController::class, 'test']);
+Route::prefix('home/api')->group(function () {
+    Route::get('/test',  [HomeController::class, 'test']);
 });
